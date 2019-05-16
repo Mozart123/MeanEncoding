@@ -17,5 +17,6 @@ Let's say we are not using CV. There is only a single validation set. After that
 ***
 Kaggle kernel:
 https://www.kaggle.com/ozanozgur/don-t-overfit-to-cv-oversampling-mean-encoding
+
 Part of the code is from:
 https://www.kaggle.com/vprokopev/mean-likelihood-encodings-a-comprehensive-study
