@@ -2,7 +2,7 @@ Mean encoding or impact coding can be useful when a nominal feature has lots of 
 However, it must be done correctly, otherwise will result in overfitting.
 
 In mean encoding, mean target value corresponding to each category is calculated. However, it is done in such a way that
-we don't assign the target means to the examples that we used for calculating these values.
+we don't assign the target means to the examples that we used for calculating these values, while still using all examples for training.
 ***
 How does it work?
 Let's say we are not using CV. There is only a single validation set. After that we,
