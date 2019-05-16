@@ -13,3 +13,7 @@ Let's say we are not using CV. There is only a single validation set. After that
 - Repeat for all folds.
 
 - If you are using CV, repeat this process for each fold. It will create a K-Fold in K-Fold.
+
+***
+Kaggle kernel:
+https://www.kaggle.com/ozanozgur/don-t-overfit-to-cv-oversampling-mean-encoding
